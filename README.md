@@ -52,10 +52,8 @@ python main.py
 ```
 
 Example usage: 
-
+```
 > 1,2,3
-Result: 6
-> //;\n1;2;3
 Result: 6
 > exit
 ```
@@ -107,7 +105,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
